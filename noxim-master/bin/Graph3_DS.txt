@@ -1,0 +1,43 @@
+	--------------------------------------------
+		Noxim - the NoC Simulator
+		(C) University of Catania
+	--------------------------------------------
+Catania V., Mineo A., Monteleone S., Palesi M., and Patti D. (2016) Cycle-Accurate Network on Chip Simulation with Noxim. ACM Trans. Model. Comput. Simul. 27, 1, Article 4 (August 2016), 25 pages. DOI: https://doi.org/10.1145/2953878
+
+
+Loading configuration from file "../config_examples/my_config.yaml"... Done
+Loading power configurations from file "power.yaml"... Done
+OPTICAL MESH ENABLED
+	--------------------------------------------
+		Noxim - the NoC Simulator
+		(C) University of Catania
+	--------------------------------------------
+Catania V., Mineo A., Monteleone S., Palesi M., and Patti D. (2016) Cycle-Accurate Network on Chip Simulation with Noxim. ACM Trans. Model. Comput. Simul. 27, 1, Article 4 (August 2016), 25 pages. DOI: https://doi.org/10.1145/2953878
+
+
+Loading configuration from file "../config_examples/my_config.yaml"... Done
+Loading power configurations from file "power.yaml"... Done
+OPTICAL MESH ENABLED
+Reset for 10 cycles...  done! 
+ Now running for 200000 cycles...
+Noxim simulation completed. (200010 cycles executed)
+
+% Total received packets: 174017
+% Total received flits: 676516
+% Received/Ideal flits Ratio: 1.39086
+% Average wireless utilization: 0
+% Global average delay (cycles): 104790
+% Max delay (cycles): 200009
+% Network throughput (flits/cycle): 3.56061
+% Average IP throughput (flits/cycle/IP): 0.445076
+% Total energy (J): 5.99563e-05
+% 	Dynamic energy (J): 4.01792e-05
+% 	Static energy (J): 1.97771e-05
+% Electrical to optical cost (pJ) : 69606.8
+% RCU cost (pJ) : 34891.2
+% Total Optical Energy (J) : 1.04498e-07
+% Total Energy (Optical + Electrical)(J) : 6.00608e-05
+%ReqAckDelay:6091.97
+%DestroyDelay:0.458289
+%MaxReqAckDelay:197142
+%MaxDestroyDelay:10
